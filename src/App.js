@@ -1,4 +1,5 @@
 import './App.css';
+<<<<<<< Updated upstream
 import Footer from './components/Footer';
 import Header from './components/Header';
 
@@ -9,6 +10,14 @@ function App() {
 
     <Footer/>
   </main>
+=======
+import { Button } from "flowbite-react";
+
+
+function App() {
+  return (
+   <div>helljgjkkjhkjkhkhjhjkho</div>
+>>>>>>> Stashed changes
   );
 }
 
